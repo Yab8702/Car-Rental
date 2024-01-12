@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.4495d43c.css",
+    "main.css": "/static/css/main.acb68603.css",
     "main.js": "/static/js/main.c23b4009.js",
     "static/media/heroes-bg.png": "/static/media/heroes-bg.71ab9a13d73de3860763.png",
     "static/media/toyota-box.png": "/static/media/toyota-box.8968332b7901c6bb183c.png",
@@ -23,18 +23,17 @@
     "static/media/toyotacamry.jpg": "/static/media/toyotacamry.3d493a56558c50b677cc.jpg",
     "static/media/audia1.jpg": "/static/media/audia1.d038cf70b700e34e607a.jpg",
     "static/media/bg.png": "/static/media/bg.82b3bf0dc76cd35f3da0.png",
-    "static/media/book-bg.png": "/static/media/book-bg.6f629a1041e9fd9c6685.png",
     "static/media/book-banner.png": "/static/media/book-banner.09fcba44170a314c81a8.png",
     "static/media/bg-contact.png": "/static/media/bg-contact.c178c6db0f988d408d94.png",
     "static/media/logo.png": "/static/media/logo.0ad964cb93ab30cc809d.png",
     "static/media/googleapp.svg": "/static/media/googleapp.e6493904327fe3f9b89c7c75a4f3ae74.svg",
     "static/media/appstore.svg": "/static/media/appstore.35481c6295b0744dfcc00d35874fbdd8.svg",
     "index.html": "/index.html",
-    "main.4495d43c.css.map": "/static/css/main.4495d43c.css.map",
+    "main.acb68603.css.map": "/static/css/main.acb68603.css.map",
     "main.c23b4009.js.map": "/static/js/main.c23b4009.js.map"
   },
   "entrypoints": [
-    "static/css/main.4495d43c.css",
+    "static/css/main.acb68603.css",
     "static/js/main.c23b4009.js"
   ]
 }
